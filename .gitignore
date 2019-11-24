@@ -1,0 +1,17 @@
+ignores
+.env
+.DS_Store
+
+# directory contents ignores
+.vscode/
+bazarr/
+NzbDrone/
+portainer/
+radarr_config/
+SABnzbd/
+
+# specific files ignores
+vpn/.firewall
+vpn/c*
+vpn/vpn.auth
+vpn/.DS_Store
